@@ -1,6 +1,6 @@
 # Tick Me Famous! - Chrome Extension
 
-![Icon](/icons/tood.PNG)
+![Icon](/icons/me.PNG)
 
 ## 📌 Overview
 **Tick Me Famous!** is a fun Chrome extension that adds a fake verification badge to Twitter profiles. If you haven't received a real verification badge, no problem—this extension gives you one! 😉
