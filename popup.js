@@ -5,12 +5,12 @@ document.addEventListener("DOMContentLoaded", function () {
         const funMessage = document.querySelector(".fun-message");
         
         if (currentTab && currentTab.url.includes("https://x.com/")) {
-            messageDiv.innerText = "Blue badge energy, no subscription needed! 💙";
+            messageDiv.innerText = "Who needs a subscription when you have this? 🤩";
             funMessage.innerText = "Don’t tell Elon… but you’re verified now 🤫";
             
         } else {
             messageDiv.innerText = "😢 You`re not in Twitter ! Open Twitter to Get Your Verification.";
-            funMessage.innerText = "Who needs a subscription when you have this? 🤩";
+            funMessage.innerText = "Blue badge energy, no subscription needed! 💙";
 
         }
     });
