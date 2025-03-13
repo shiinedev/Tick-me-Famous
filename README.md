@@ -11,6 +11,9 @@
 - Simple & lightweight with **Vanilla JavaScript**.
 - Fun popup UI with CSS.
 - Checks if you are on Twitter and displays a message if you're not.
+  
+## See How it works :
+- [See How it works](https://www.facebook.com/share/v/15AaU6KmNs/)
 
 ## 🛠 Installation
 1. Download the extension source code.
